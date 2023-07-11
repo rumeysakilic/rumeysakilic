@@ -18,8 +18,5 @@ Skills: C/ JAVA OOP/ HTML / CSS/ PHYTON
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rumeysakilic&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rumeysakilic)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=rumeysakilic)  
 
-![Profile views](https://gpvc.arturio.dev/rumeysakilic)  
