@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there 👋, Rumeysa KILIÇ
+#### Computer Engineer
+![Computer Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**rumeysakilic/rumeysakilic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am studying at Konya Teknik University. 
 
-Here are some ideas to get you started:
+Skills: C/ JAVA OOP/ HTML / CSS/ PHYTON
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Internship Assignments. 
+- 🌱 I’m currently learning c# 
+- 📫 How to reach me: rumeysaklc20@gmal.com 
+- 😄 Pronouns: She/her. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rumeysakilic)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Rumeysa KILIÇ/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/rumeysaklc20?hr_r=1)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rumeysakilic)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rumeysakilic&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rumeysakilic)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=rumeysakilic)  
+
+![Profile views](https://gpvc.arturio.dev/rumeysakilic)  
