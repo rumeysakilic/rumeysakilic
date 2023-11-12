@@ -4,11 +4,11 @@
 
 I am studying at Konya Teknik University. 
 
-Skills: C/ JAVA OOP/ HTML / CSS/ PHYTON/ c#/ .NET
+Skills: C/ JAVA OOP/ HTML / CSS/ PHYTON/ C#/ .NET
 
 - 🔭 I’m currently working on Internship Assignments. 
 - 🌱 I’m currently learning c# 
-- 📫 How to reach me: rumeysaklc20@gmal.com 
+- 📫 How to reach me: rumeysaklc20@gmail.com 
 - 😄 Pronouns: She/her. 
 
 
