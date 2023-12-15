@@ -4,7 +4,7 @@
 
 I am studying at Konya Teknik University. 
 
-Skills: C/ JAVA OOP/ HTML / CSS/ PHYTON/ C#/ .NET
+Skills: C/ JAVA OOP/ HTML/ CSS/ PHYTON/ C#/ .NET
 
 - 🔭 I’m currently working on Internship Assignments. 
 - 🌱 I’m currently learning c# 
