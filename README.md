@@ -1,6 +1,6 @@
 ### Hi there 👋, Rumeysa KILIÇ
 #### Computer Engineer
-![Computer Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Computer Engineer]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fgithub-launches-package-registry-to-easily-generate-packages-from-your-code%2F&psig=AOvVaw0HIjKOeAPETpwa0TkFWcib&ust=1721330017977000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCBjI3krocDFQAAAAAdAAAAABAQ))
 
 I am studying at Konya Teknik University. 
 
