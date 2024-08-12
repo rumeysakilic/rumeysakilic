@@ -1,6 +1,6 @@
 ### Hi there 👋, Rumeysa KILIÇ
 #### Computer Engineer
-![Computer Engineer]
+
 
 I am studying at Konya Teknik University. 
 
