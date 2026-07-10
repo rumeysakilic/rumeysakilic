@@ -1,16 +1,14 @@
 ### Hi there 👋, Rumeysa KILIÇ
-#### Computer Engineer
+#### Computer Engineer & AI Researcher
 
+I am a Master's student at Samsun University, focusing on Artificial Intelligence and Machine Learning.
 
-I am studying at Konya Teknik University. 
+Skills:AI & ML (RAG, Ensemble Learning) / PYTHON / C# / .NET / HTML & CSS / C / JAVA OOP
 
-Skills: C/ JAVA OOP/ HTML/ CSS/ PHYTON/ C#/ .NET
-
-- 🔭 I’m currently working on Internship Assignments. 
-- 🌱 I’m currently learning c# 
+- 🔭 I’m currently working on advanced AI projects and intelligent systems.
+- 🌱 I’m currently expanding my expertise in C# and deep learning architectures.
 - 📫 How to reach me: rumeysaklc20@gmail.com 
-- 😄 Pronouns: She/her. 
-
+- 😄 Pronouns: She/her.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rumeysakilic)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/RumeysaKılıç/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/rumeysaklc20?hr_r=1)  
 
@@ -18,5 +16,4 @@ Skills: C/ JAVA OOP/ HTML/ CSS/ PHYTON/ C#/ .NET
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rumeysakilic&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=rumeysakilic)  
-
+![GitHub streak stats](https://streak-stats.demolab.com/?user=rumeysakilic)
