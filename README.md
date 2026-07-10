@@ -32,10 +32,3 @@ I am a Master's student at Samsun University, focusing on Artificial Intelligenc
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank">
   </a>
 </p>
-
----
-
-### 📊 GitHub Activity
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rumeysakilic&theme=github-dark&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%">
-</p>
